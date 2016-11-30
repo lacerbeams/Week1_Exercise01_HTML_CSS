@@ -1,0 +1,47 @@
+body {
+  background: #e6e6e6;
+  text-align: center;
+  margin: 40px;
+  font-family: 'Playfair Display', serif;
+}
+
+h1, h2, h3 {
+  color: #660066;
+
+}
+
+ul{
+  background: #8c8c8c;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 10px;
+
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+a:hover {
+  color: #660066;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+p {
+  text-align: left;
+
+}
+
+div {
+  background: #8c8c8c;
+  color: white;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 10px;
+}
